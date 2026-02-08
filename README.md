@@ -1,4 +1,4 @@
-# Mini Social Network Graph Manager
+# Mini Social Network Graph Manager (**December, 2021** )
 
 A beginner python exercise written in **December, 2021** as Project 3 when first learning programming.
 
