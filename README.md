@@ -7,7 +7,7 @@ Manage a social network graph using adjacency lists. Implements basic graph oper
 
 ## Usage
 ```bash
-python3 assignment3.py dirpath dirpath
+python3 network.py dirpath dirpath
 ```
 
 Reads `smn.txt` (social network adjacency list) and `commands.txt`, outputs results to `output.txt`.
